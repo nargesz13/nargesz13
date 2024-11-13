@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesz13&hide_progress=true)
 
@@ -18,5 +18,5 @@
 | course | techear | time |
 |--|--|--|
 | front | mr.taba | 50H |
-| backend | mr.adib | 40H |
+| backend | mr.adib | 40H | -->
  
